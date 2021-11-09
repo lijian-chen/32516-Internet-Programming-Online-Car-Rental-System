@@ -1,0 +1,124 @@
+{
+    "cars": [
+        {
+            "category": "Sedan",
+            "availability": true,
+            "brand": "BMW",
+            "model": "320i",
+            "model_year": 2014,
+            "mileage": 12000,
+            "fuel_type": "Petrol",
+            "seats": 5,
+            "price_per_day": 270,
+            "description": "2014 BMW 320i is an automatic petrol sedan with 5 seats."
+        },
+        {
+            "category": "Sedan",
+            "availability": true,
+            "brand": "Toyota",
+            "model": "Camry",
+            "model_year": 2013,
+            "mileage": 10000,
+            "fuel_type": "Petrol",
+            "seats": 5,
+            "price_per_day": 120,
+            "description": "2013 Toyota Camry is an automatic petrol sedan with 5 seats."
+        },
+        {
+            "category": "SUV",
+            "availability": true,
+            "brand": "Holden",
+            "model": "Captiva",
+            "model_year": 2018,
+            "mileage": 66000,
+            "fuel_type": "Diesel",
+            "seats": 7,
+            "price_per_day": 350,
+            "description": "2017 Holden Captiva is an automatic diesel SUV with 7 seats."
+        },
+        {
+            "category": "SUV",
+            "availability": false,
+            "brand": "Jeep",
+            "model": "Cherokee",
+            "model_year": 2015,
+            "mileage": 99000,
+            "fuel_type": "Diesel",
+            "seats": 5,
+            "price_per_day": 300,
+            "description": "2015 Jeep Cherokee is an automatic diesel SUV with 5 seats."
+        },
+        {
+            "category": "Sedan",
+            "availability": false,
+            "brand": "Honda",
+            "model": "Civic",
+            "model_year": 2017,
+            "mileage": 90000,
+            "fuel_type": "Petrol",
+            "seats": 5,
+            "price_per_day": 100,
+            "description": "2017 Honda Civic is an automatic petrol sedan with 5 seats."
+        },
+        {
+            "category": "SUV",
+            "availability": true,
+            "brand": "Mercedes-Benz",
+            "model": "GLC",
+            "model_year": 2020,
+            "mileage": 10000,
+            "fuel_type": "Petrol",
+            "seats": 5,
+            "price_per_day": 500,
+            "description": "2020 Mercedes-Benz GLC is an automatic petrol SUV with 5 seats."
+        },
+        {
+            "category": "Hatch",
+            "availability": true,
+            "brand": "Volkswagen",
+            "model": "Golf",
+            "model_year": 2019,
+            "mileage": 30000,
+            "fuel_type": "Petrol",
+            "seats": 5,
+            "price_per_day": 180,
+            "description": "2019 Volkswagen Golf is an automatic petrol hatch with 5 seats."
+        },
+        {
+            "category": "SUV",
+            "availability": false,
+            "brand": "Suzuki",
+            "model": "Jimny",
+            "model_year": 2013,
+            "mileage": 120000,
+            "fuel_type": "Petrol",
+            "seats": 4,
+            "price_per_day": 100,
+            "description": "2013 Suzuki Jimny is a manual petrol SUV with 4 seats."
+        },
+        {
+            "category": "Sedan",
+            "availability": true,
+            "brand": "Hyundai",
+            "model": "Sonata",
+            "model_year": 2019,
+            "mileage": 18000,
+            "fuel_type": "Petrol",
+            "seats": 5,
+            "price_per_day": 150,
+            "description": "2019 Hyundai Sonata is an automatic petrol sedan with 5 seats."
+        },
+        {
+            "category": "SUV",
+            "availability": true,
+            "brand": "Nissan",
+            "model": "X-Trail",
+            "model_year": 2017,
+            "mileage": 100000,
+            "fuel_type": "Petrol",
+            "seats": 5,
+            "price_per_day": 240,
+            "description": "2017 Nissan X-Trail is an automatic petrol sedan with 5 seats."
+        }
+    ]
+}
